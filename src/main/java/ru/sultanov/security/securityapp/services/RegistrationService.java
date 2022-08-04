@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import ru.sultanov.security.securityapp.Models.Person;
+import ru.sultanov.security.securityapp.models.Person;
 import ru.sultanov.security.securityapp.repositories.PeopleRepository;
 
 @Service

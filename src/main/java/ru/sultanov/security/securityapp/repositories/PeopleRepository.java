@@ -2,7 +2,7 @@ package ru.sultanov.security.securityapp.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import ru.sultanov.security.securityapp.Models.Person;
+import ru.sultanov.security.securityapp.models.Person;
 
 import java.util.Optional;
 

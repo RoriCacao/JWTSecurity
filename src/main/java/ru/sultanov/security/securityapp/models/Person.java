@@ -1,4 +1,4 @@
-package ru.sultanov.security.securityapp.Models;
+package ru.sultanov.security.securityapp.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
